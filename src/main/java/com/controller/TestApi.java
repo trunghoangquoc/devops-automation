@@ -9,6 +9,6 @@ public class TestApi {
     @GetMapping("/hello")
     public String getHello() {
 
-        return "Hello trunghq";
+        return "Hello trunghq test jenkinsFile";
     }
 }
